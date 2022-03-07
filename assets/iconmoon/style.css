@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?e9gqoa');
+  src:  url('fonts/icomoon.eot?e9gqoa#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?e9gqoa') format('truetype'),
+    url('fonts/icomoon.woff?e9gqoa') format('woff'),
+    url('fonts/icomoon.svg?e9gqoa#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-school:before {
+  content: "\e909";
+}
+.icon-edit:before {
+  content: "\e90a";
+}
+.icon-folder:before {
+  content: "\e90b";
+}
+.icon-tool:before {
+  content: "\e90c";
+}
+.icon-briefcase:before {
+  content: "\e90d";
+}
+.icon-mail:before {
+  content: "\e905";
+}
+.icon-map-pin:before {
+  content: "\e906";
+}
+.icon-jquery:before {
+  content: "\e916";
+  color: #0769ad;
+}
+.icon-node-dot-js:before {
+  content: "\e917";
+  color: #393;
+}
+.icon-go:before {
+  content: "\e918";
+  color: #00add8;
+}
+.icon-angular:before {
+  content: "\e919";
+  color: #dd0031;
+}
+.icon-mysql:before {
+  content: "\e900";
+  color: #4479a1;
+}
+.icon-git:before {
+  content: "\e901";
+  color: #f05032;
+}
+.icon-react:before {
+  content: "\e902";
+  color: #61dafb;
+}
+.icon-java:before {
+  content: "\e903";
+  color: #007396;
+}
+.icon-javascript:before {
+  content: "\e904";
+  color: #f7df1e;
+}
+.icon-css3:before {
+  content: "\e907";
+  color: #1572b6;
+}
+.icon-html5:before {
+  content: "\e908";
+  color: #e34f26;
+}
+.icon-linkedin:before {
+  content: "\e90e";
+}
+.icon-github:before {
+  content: "\e90f";
+}
+.icon-steam:before {
+  content: "\e910";
+}
+.icon-twitch:before {
+  content: "\e911";
+}
+.icon-telegram:before {
+  content: "\e912";
+}
+.icon-whatsapp1:before {
+  content: "\e913";
+}
+.icon-instagram1:before {
+  content: "\e914";
+}
+.icon-facebook1:before {
+  content: "\e915";
+}
